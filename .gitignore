@@ -1,0 +1,6 @@
+settings.py
+*.log
+.vscode/
+# .idea/ для пайчарма
+tbot_venv/
+__pycache__/
